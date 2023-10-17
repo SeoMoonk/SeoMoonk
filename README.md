@@ -4,7 +4,7 @@
 
 <img src="https://img.shields.io/badge/-SpringBoot-344CB7?style=flat-plastic&logo=Java&logoColor=green"/></a>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SeoMoonk&repo=github-readme-stats)](https://github.com/SeoMoonk/github-readme-stats)
+[![SeoMoonk's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeoMoonk)](https://github.com/SeoMoonk/github-readme-stats)
 
 <!--
 **SeoMoonk/SeoMoonk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
