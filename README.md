@@ -1,4 +1,4 @@
-### Hi there 👋
+### SeoMoonk's Github 👋
 
 <p align="center">
 	<img src="https://img.shields.io/badge/java-orange.svg?&style=for-the-badge&logo=java&logoColor=white">&nbsp;
@@ -10,9 +10,13 @@
 	<img alt="Docker" src ="https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=Docker&logoColor=white"/>&nbsp;
 </p>
 
-[![SeoMoonk's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeoMoonk&layout=compact&theme=dracula)](https://github.com/SeoMoonk/github-readme-stats)
+<p align="center">
+	[![SeoMoonk's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeoMoonk&layout=compact&theme=dracula)](https://github.com/SeoMoonk/github-readme-stats)
+	
+	![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeoMoonk&layout=compact&theme=dracula&hide=jupyter%20notebook)
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeoMoonk&layout=compact&theme=dracula&hide=jupyter%20notebook)
+
 
 <!--
 **SeoMoonk/SeoMoonk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
