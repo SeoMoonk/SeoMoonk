@@ -1,8 +1,14 @@
 ### Hi there 👋
 
-<img src="https://img.shields.io/badge/-Java-344CB7?style=flat-plastic&logo=Java&logoColor=white"/></a>
+<p align="center">
+	<img src="https://img.shields.io/badge/java-orange.svg?&style=for-the-badge&logo=java&logoColor=white">&nbsp;
+	<img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white"/>&nbsp;
+</p>
 
-<img src="https://img.shields.io/badge/-SpringBoot-344CB7?style=flat-plastic&logo=Java&logoColor=green"/></a>
+<p align="center">
+	<img alt="Spring Boot" src ="https://img.shields.io/badge/Spring Boot-6DB33F.svg?&style=for-the-badge&logo=Spring Boot&logoColor=white"/>&nbsp;
+	<img alt="Docker" src ="https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=Docker&logoColor=white"/>&nbsp;
+</p>
 
 [![SeoMoonk's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeoMoonk)](https://github.com/SeoMoonk/github-readme-stats)
 
