@@ -12,7 +12,7 @@
 
 [![SeoMoonk's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeoMoonk&layout=compact&theme=dracula)](https://github.com/SeoMoonk/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeoMoonk&layout=compact&theme=dracula&hide=Jupyter_Notebook)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeoMoonk&layout=compact&theme=dracula&hide=jupyter%20notebook)
 
 <!--
 **SeoMoonk/SeoMoonk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
